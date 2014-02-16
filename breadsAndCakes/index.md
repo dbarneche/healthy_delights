@@ -29,3 +29,24 @@ In a bowl, mix the flours, fiber mix, water, yeast and salt. Cover with a plasti
 Mix all the ingredients (save the baking powder for the last mix) and bake at 200˚C for 20-25 min. Be happy!  
 
 ![](banana_bread.jpg)
+
+# Onion and Parmesan cheese bread (vegetarian)  
+
+## Ingredients  
+**Dough**  
+* 3/4 kg of self-raising white flour;  
+* 1/4 kg of wholemeal flour;  
+* 2 cups of warm (not hot) whole milk;  
+* 1/4 of cup of olive oil;  
+* 2 bags (7g each) of dried yeast;  
+* Salt and pepper to taste.  
+
+**Filling**  
+* 250g of parmesan cheese;  
+* 1 big onion (diced);  
+* 2 tbsp of soy sauce;  
+
+## How to prepare  
+In a bowl, gently mix the milk, olive oil, yeast, salt and pepper and a little bit of flour. Slowly pour in more flour, always hand mixing it until desired consistency is achieved (ideally, it will no longer stick to your hands). Let the dough rest for 15 minutes. On a stir fry pan, stir fry the onion with olive oil and soy sauce, and set it aside. Split the dough into 2, evenly spread the dough on a clean surface, using either your hands or a rolling pin. Spread half of the fried onions on top of it (photo strip 1) and sprinkle parmesan chesse on it - make sure you leave enough empty border to avoid the filling ti leak (photo strip 2). Roll the dough (photo strip 3) and make sure you tuck the side borders in (photo strip 4). Repeat the steps with the other half of the dough (photo strip 5). Pre-heat the oven at ~200˚C. Bake it for ~20 minutes. Serves 8 people (photo strip 6).  
+
+![](parmcheese_bread.jpg)  
