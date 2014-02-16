@@ -12,6 +12,8 @@
 ## How to prepare  
 In a bowl, mix the flours, fiber mix, water, yeast and salt. Cover with a plastic wrap and let it ferment for up to 18 hours (the longer the better beery taste). In another bowl, soak the nut mix. After 18h, drain the nut mix and rinse it. Sprinkle some flour on the table and throw the dough (very wet indeed, don’t worry). Sprinkle flour and some of the nut mix on top and fold it. Repeat this process ten times. Put this dough on an oven tray, cover it with a dish cloth and let it rest for 2 hours. After 2 hours, grease a metal bread tray in put it in the oven (250oC) until it starts sparkling (yes, it needs to be very very hot). Take it out, and put half of the dough in it. Don’t worry about the shape, it will get even while cooking. Bake it for 45 min at 250oC. Do the same for the second half of the dough.
 
+![](pao_roots.jpg)  
+
 # Larica Banana bread (vegan, soy-free, contains gluten)  
   
 ## Ingredients  
@@ -28,7 +30,7 @@ In a bowl, mix the flours, fiber mix, water, yeast and salt. Cover with a plasti
 ## How to prepare  
 Mix all the ingredients (save the baking powder for the last mix) and bake at 200˚C for 20-25 min. Be happy!  
 
-![](banana_bread.jpg)
+![](banana_bread.jpg)  
 
 # Onion and Parmesan cheese bread (vegetarian)  
 
