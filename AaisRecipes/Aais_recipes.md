@@ -120,7 +120,8 @@ chole.
 
 ## Chaat masala 
 
-2 cups coriander seeds, 1 cup jeera, 1 tbsp. ajwain, 1 tbsp saunf, 4 tbsp dry
+*Ingredients*:
+2 cups coriander, 1 cup jeera, 1 tbsp. ajwain, 1 tbsp saunf, 4 tbsp dry
 mint, 4 tbsp amchur pwdr, 50 gm citric acid, 4 tbsp rock salt, 2 tbsp garam
 masala pwdr (cloves,dalchini,small elaichi,nutmeg), 1 tbsp pepper, 1 tbsp dry
 ginger 
@@ -131,7 +132,7 @@ ginger
 
 ## Amboli 
 
-*Ingr:* 
+*Ingredients*:
 * 2 cups rice, 
 * 1/2 coconut (grated)
 * 2 tbsp curd
@@ -150,7 +151,8 @@ ginger
 
 ## Aapam 
 
-*Ingredients*: rice 2 cups, coconut milk thin 2 cups, coconut milk thick 1 cup, jeera
+*Ingredients*: 
+rice 2 cups, coconut milk thin 2 cups, coconut milk thick 1 cup, jeera
 1/2 tsp, salt, soda bi carb, oil. 
 
 **Method**: Soak rice over night. Drain & spread on paper. When half dry, grind
@@ -181,9 +183,7 @@ To the filling, you can add other things like cheese, etc.
 
 ## Thalipeeth  
 
-bhajani: 
-
-*Ingr:* 4 cups jawar, 2 cups gram dal, 1 cup wheat, 1 cup rice, 1 cup 
+*Ingredients* (Bhajani): 4 cups jawar, 2 cups gram dal, 1 cup wheat, 1 cup rice, 1 cup 
 moong dal, 1/2 cup urad dal, 1 cup dhania, 2 heaped tb sp jeera, 1/2 
 tsp hing, 1 tb sp methi seeds, 2 heaped tb sp ajwain. Roast all the 
 things except ajwain & grind. If you can\'t do this & you have 
