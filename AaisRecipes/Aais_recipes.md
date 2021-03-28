@@ -22,6 +22,7 @@
   - [Kerala Stew](#kerala-stew)
   - [Sambar](#sambar)
   - [Kadhi](#kadhi)
+  - [Puran-poli Amti](#puran-poli-amti)
   - [Pithala](#pithala)
   - [Sandgyachi Bhaji](#sandgyachi-bhaji)
 - [Meat/seafood dishes](#meatseafood-dishes)
@@ -61,7 +62,7 @@
 
 ## Kala Masala
 
-*Ingr*: Corriander seeds 1 kg, red chillies 1/4 kg, whole termric 
+*Ingredients*: Corriander seeds 1 kg, red chillies 1/4 kg, whole termric 
 (halkund) 50 gm, cloves 20 gm, cinamone 20 gm, nutmeg 1, pepper 20 
 gm, ani seeds 20 gm, hing 10 gm, dagadful 10 gm, tamalpatrta 10 gm, 
 badi elichi 50 gm, gr elaichi 10 gm, badalful 20 gm, give final tou 
@@ -78,7 +79,7 @@ Note: use this masala for any veg, non-veg dish.
 
 ## Bombay Masala 
 
-*Ingr*: coriander seeds 1/2 kg, cumin 1 (medium size) cup, mustard seeds 1/2 cup, pepper 1/4 cup.
+*Ingredients*: coriander seeds 1/2 kg, cumin 1 (medium size) cup, mustard seeds 1/2 cup, pepper 1/4 cup.
 
 **Method**: Roast all things one by one with no oil & powder. 
 
@@ -88,7 +89,7 @@ Note: Use it for chicken & mutton with raw garam masala.
 
 ## Raw garam masala
 
-*Ingr*: cloves 20 gm, cinamon 20 gm, badi elaichi 20 gm (shelled), nutmeg 1,
+*Ingredients*: cloves 20 gm, cinamon 20 gm, badi elaichi 20 gm (shelled), nutmeg 1,
 cardamum (gr elaichi) 20 gm, shahajeera 20 gm. 
 
 **Method**: Grind all things raw. 
@@ -110,18 +111,26 @@ ginger
 
 ## Amboli 
 
-*Ingr:* 2 cups rice, 1/2 coconut (grated), 2 tbsp curd, 1 tbsp sugar or jaggery,
-1 handful of pohe (washed), 1/2 tsp haldi, salt to taste, 2 tsp methi seeds 1
-tsp red chilli-powder. 
+*Ingr:* 
+* 2 cups rice, 
+* 1/2 coconut (grated)
+* 2 tbsp curd
+* 1 tbsp sugar or jaggery,
+* 1 handful of pohe (washed)
+* 1/2 tsp haldi
+* Salt to taste
+* 2 tsp methi seeds 
+* 1 tsp red chilli powder 
 
-**Method**: Wash & Soak cleaned rice & methi seeds in enough water for 3-4 hrs
-or overnight. Then grind to fine paste. Grind poha too, to add to rice paste.
-Add curd, haldi & salt. Ferment for 8 hrs. Then add coconut, sugar & chilli.
-Mixture is ready for amboli. Eat with thecha. 
+**Method**: 
+1. Wash & Soak cleaned rice & methi seeds in enough water for 3-4 hrs or overnight. Then grind to fine paste. Grind poha too, to add to rice paste.
+2. Add curd, haldi & salt. Ferment for 8 hrs. Then add coconut, sugar & chilli.
+3. Mixture is ready for amboli (make it like a crepe).
+4. Eat with thecha.
 
 ## Aapam 
 
-*Ingr*: rice 2 cups, coconut milk thin 2 cups, coconut milk thick 1 cup, jeera
+*Ingredients*: rice 2 cups, coconut milk thin 2 cups, coconut milk thick 1 cup, jeera
 1/2 tsp, salt, soda bi carb, oil. 
 
 **Method**: Soak rice over night. Drain & spread on paper. When half dry, grind
@@ -132,7 +141,7 @@ apam. Don't turn it.
 
 ## Aalu Parotha
 
-*Ingr*: Potatoes, One onion, Ginger, Garlic, Coriander leaves, Chilies, Mustard
+*Ingredients*: Potatoes, One onion, Ginger, Garlic, Coriander leaves, Chilies, Mustard
 seeds, Turmeric powder, Salt, Chaat masala, Cumin seeds, Asafoetida, Flour.
 
 **Method**: Boil and mash potatoes, mix one chopped raw onion. Add turmeric,
@@ -167,7 +176,7 @@ it becomes a wholesome food.
 
 ## Rawa Dosa 
 
-*Ingr*: 1cup rawa, 1 cup maida, 1/2 cup curd, salt, 4-5 gr chillies, 
+*Ingredients*: 1cup rawa, 1 cup maida, 1/2 cup curd, salt, 4-5 gr chillies, 
 gr coriander, curry patta, ginger, oil. 
 
 **Method**: Soak rawa, maida, curd with water 2 hrs before. Then in 
@@ -177,7 +186,7 @@ usual.
 
 ## Dhirda 
 
-*Ingr*: Chickpea flour, Chaat Masala, Salt, Maida (teaspoon of 
+*Ingredients*: Chickpea flour, Chaat Masala, Salt, Maida (teaspoon of 
 flour), Turmeric, Coriander, two spoons yogurt, Baking Powder, chili 
 powder. 
 
@@ -219,7 +228,7 @@ roll. steam for 10 min. Cool. Cut in to thin slices. Shallow fry on tawa.
 
 ## Aaluchya Wadya 
 
-*Ingr*: big aalu leaves, besan, haldi, red chilli powder, salt chincha-gool,
+*Ingredients*: big aalu leaves, besan, haldi, red chilli powder, salt chincha-gool,
 bombay masala, hing, til, oil. 
 
 **Method**: Wash leaves properly. Make batter with all the things. 
@@ -231,7 +240,7 @@ enough.)
 
 ## Sabudana Wada 
 
-*Ingr*: 1.5 cup soaked sabudana, 1\2 cup boiled, mashed potato, 1\2 
+*Ingredients*: 1.5 cup soaked sabudana, 1\2 cup boiled, mashed potato, 1\2 
 cup finely ground pdr of roasted peanuts, 7-8 gr chillies, 1tsp 
 jeera, gr coriander, salt & little suger, 1tsp lemon juice. 
 
@@ -270,7 +279,7 @@ to it, boil for five mins, add salt and papper and serve.
 
 ## Rasam 
 
-*Ingr*: tomatoes, garlic, jeera, musturd, hing, tamarind pulp, 
+*Ingredients*: tomatoes, garlic, jeera, musturd, hing, tamarind pulp, 
 pepper. salt, curry patta. 
 
 **Method**: Grind tomates, garlic, jeera, pepper. Heat oil, put 
@@ -279,7 +288,7 @@ tamarind. Boil.
 
 ## Kerala Stew 
 
-*Ingr*: Mixed vegetables (potato, beans, carrot ) cut into cubes, 
+*Ingredients*: Mixed vegetables (potato, beans, carrot ) cut into cubes, 
 chicken shreds ( optional ), onions, coconut milk, whole garam 
 masala, salt, haldi, ginger, gr chillies. 
 
@@ -290,27 +299,36 @@ fry. Add coconut milk. If stew is thick, add milk to it lastly.
 
 ## Sambar 
 
-*Ingr*: Sambar masala (Roast corriander seeds, methi seeds, red chillies, hing, dry coconut grated. Grind. ), tur dal, haldi, hing, tamarind water, assorted vegs (drum sticks, bhindi, snake gourd, 
+*Ingredients*: Sambar masala (Roast corriander seeds, methi seeds, red chillies, hing, dry coconut grated. Grind. ), tur dal, haldi, hing, tamarind water, assorted vegs (drum sticks, bhindi, snake gourd, 
 potato, tomato, onion, lal bhopala), salt, oil. 
 
 **Method**: Boil dal with haldi, hing. Heat oil, put methi, jeera, musturd, curry patta, hing, whole red chillies. When crackles, put onion, fry a little. Add bhindi first & other vegs, salt. when cooked, add 2 tbsp sambar masala. Add boled dal, tamarind pulp, salt & 1 tsp sugar. 
 
 ## Kadhi 
 
-*Ingr*: Yogurt (1 cup), Besan (2 tsp), green chilies, red chilies 
-(for seasoning), ginger (paste), ½ tsp sugar (depends upon how sour 
-yogurt is). 
+*Ingredients*: 
+* Yogurt (1 cup), 
+* Besan (2 tsp)
+* Green chilies
+* Red chilies (for seasoning)
+* Ringer (paste)
+* 1/2 tsp sugar (depends upon how sour yogurt is). 
+* Spices: turmeric, curry leaves, Bengali tadka, hing
 
-Spices: turmeric, curry leaves, Bengali tadka, hing 
+**Method**:
+1. Beat yogurt with water and besan-ginger paste, turmeric, salt and sugar
+2. Make phodni with curry leaves, hing, red chilies and Bengali tadka.
+3. Add yogurt mixture. do not let it boil! Stop just as it starts boiling.
 
-**Method**: beat yogurt with water and besan ginger paste, 
-turmeric, salt and sugar. Make phodni with curry leaves, hing, red 
-chilies and Bengali tadka. then add yogurt mixture. do not let it 
-boil! stop ust as it starts boiling. 
+## Puran-poli Amti
+
+*Ingredients*: Chana dal (only water remaining after cooking and draining) Garlic (lasoon), grama masala, coriander leaves (kothimbir), salt 
+
+**Method**: Heat little oil in kadhai, put lasoon thechlela. When it becomes brown pour strained water from boiled dal, garam masala .salt, kothimbir. For  thickness grinfd some cooked dal and add
 
 ## Pithala
 
-*Ingr*: Besan, garlic pounded, haldi, salt, water, gr coriander, gr 
+*Ingredients*: Besan, garlic pounded, haldi, salt, water, gr coriander, gr 
 chillies, oil. Red chilly pdr.\ 
 **Method**: Put oil in utensil, add rai, jeera, hing. When it 
 splutters lower the flame, add garlic, cut gr chillies, haldi, red 
@@ -320,7 +338,7 @@ Cover & cook. Add gr coriander.
 
 ## Sandgyachi Bhaji 
 
-*Ingr*: muthbhar sandge, 1 large onion,1\2 tsp mutton masala, salt , 
+*Ingredients*: muthbhar sandge, 1 large onion,1\2 tsp mutton masala, salt , 
 2 sp peanut pdr, oil, 1 tomato 
 
 **Method**: Fry sandge in little oil for 2 min. put oil in the pan 
@@ -333,7 +351,7 @@ cook.
 
 ## Pork pickle 
 
-*Ingr*: 1/2 kg pork, 1/4 dry coconut+ 2 tb sp sesame seeds( roasted & 
+*Ingredients*: 1/2 kg pork, 1/4 dry coconut+ 2 tb sp sesame seeds( roasted & 
 ground) , 1 tsp garlic ginger paste, Green Masala (1 tbsp grated 
 ginger, 2 tbsp cut lengthwise garlic, 2 tbsp cut gr chillies 
 lengthwise ), 1/2 tsp poppy seeds, 1/2 tsp garam masala powder, 1/2 
@@ -350,7 +368,7 @@ corriander.
 
 ## Fish curry 
 
-*Ingr*: Fish any, coconut grated, red chilli, haldi, amsol, bombay 
+*Ingredients*: Fish any, coconut grated, red chilli, haldi, amsol, bombay 
 masala, finly cut onion, grated ginger & garlic, methi sesds, musturd 
 seeds, curry patta, oil, salt. , gr chillies. 
 
@@ -362,7 +380,7 @@ onion& curry patta & pour it in curry.
 
 ## Sodyachi or bomblachi bhaji 
 
-*Ingr*: 200 gm sode or 15 bombil, 4 onions ( cut ), 2 tomatoes, 1 garlic, 1
+*Ingredients*: 200 gm sode or 15 bombil, 4 onions ( cut ), 2 tomatoes, 1 garlic, 1
 tsp red chilli powder, 1 tbsp Bombay masala ( roasted dhania 1 tbsp, jeera 1
 tsp, musterd 1/2 tsp, pepper 1/4 tsp & powdered ), oil, lemon sized imli, salt,
 gr corriader for garnishing. 
@@ -376,7 +394,7 @@ corriander.
 
 ## Oysters 
 
-*Ingr*: oysters (boiled & shelled), raw garam masala powder, bombay 
+*Ingredients*: oysters (boiled & shelled), raw garam masala powder, bombay 
 masala, haldi, chilli powder, ginger garlic paste, gr chillies, curry 
 patta, oil, salt. 
 
@@ -402,7 +420,7 @@ Lastly add lemon juice & corriander.
 
 ## Bharleli wangi 
 
-*Ingr*: Small waangee 6, groundnut powder + til powder + coconut 
+*Ingredients*: Small waangee 6, groundnut powder + til powder + coconut 
 powder ( all roasted & grounded) 6tb sp ( if the last 2 are not 
 available, use only g nut powder 6 tb sp ), red chilly 1 tsp, haldi 
 1/4 tsp, Bombay masala 2 tsp, kala masala ( or any other masala 
@@ -418,7 +436,7 @@ it cooks nicely. Garnish with kothimbir.
 
 ## Aalu leaves Bhaji 
 
-*Ingr*: Aalu leaves cut fine. 
+*Ingredients*: Aalu leaves cut fine. 
 
 gr chillies3-4, tamarind, jaggary, chana dal 1tb sp, cashew pieces, 
 khobryache kaap1tbsp, 1tbsp, ground nuts 2 tb sp, methi seeds 1ts, 
@@ -434,7 +452,7 @@ chilli & pour over bhaji.
 
 ## Vangyacha bharit 
 
-*Ingr*: One large or a few small brinjals roasted on open flame, if 
+*Ingredients*: One large or a few small brinjals roasted on open flame, if 
 possible. Chopped onion, chopped garlic, chili powder, salt, olive 
 oil, peanut powder. 
 
@@ -443,7 +461,7 @@ onion.
 
 ## Potato rassa bhaji 
 
-*Ingr*: Cut 2 onions finely, Cut 8 potatos (peeled) into big cubes. 
+*Ingredients*: Cut 2 onions finely, Cut 8 potatos (peeled) into big cubes. 
 Cut 2 tomatos finely . 
 
 **Method**: Put 6 tbsp oil ,heat it . Put musterd, jeera & hing. 
@@ -457,7 +475,7 @@ Now add potatos. Stir. Pour enough water & pressure cook.
 
 ## Sodyacha bhat 
 
-*Ingr*: one cup rice, 150 gms sodey, one onion, 2 tbsp each bombay masala and
+*Ingredients*: one cup rice, 150 gms sodey, one onion, 2 tbsp each bombay masala and
 coconut, 1\2 tsp red chilli powder, haldi, salt, one tomato or half cup curd,
 one tsp each garlic and ginger paste and oil. 
 
@@ -477,7 +495,7 @@ before), fry for five mins
 
 ## Masale Bhat 
 
-*Ingr*: 4 cups rice, 1\4kg brinjals,  2 sp Bombay masala, 2tsp mutton masala
+*Ingredients*: 4 cups rice, 1\4kg brinjals,  2 sp Bombay masala, 2tsp mutton masala
 1\4 waati dry coconut, salt, 1 tsp suger, 1 tsp chilli pdr, 10-12 cashews, 1 cup
 creamy curd,  gratted fresh coconut & coriander to garnish 
 
@@ -495,7 +513,7 @@ cauli flower, tondly or any veg in place of brinjals.
 
 ## Shengule 
 
-*Ingr*: hulgyacha peeth 2 cups, besan 2 tbsp (optional ), 7-8 gr 
+*Ingredients*: hulgyacha peeth 2 cups, besan 2 tbsp (optional ), 7-8 gr 
 chillies, garlic 1, cummin 1/2 tsp, groundnut powder 4 tbsp, curry 
 patta, red dhilli powder1 tsp, haldi, salt, oil, water. 
 
@@ -576,7 +594,7 @@ Grind coarcly.
 
 ## Marathi style chilli pickle
 
-*Ingr*: 
+*Ingredients*: 
 * 2 handful of chillies (1\4 kg) cut into 1 inch pieces
 * 2 tbsp musturd pdr, 
 * 1 tsp methi pdr, 
@@ -597,7 +615,7 @@ Grind coarcly.
 
 ## Goan style chilli pickle 
 
-*Ingr*: 
+*Ingredients*: 
 * 1\4 kg chillies cut into 1 inch pieces
 * 2 tbsp roasted jeera pdr
 * 2 tbsp garlic-ginger paste made in vinegar
@@ -661,7 +679,7 @@ poppy seeds.
 
 ## Tipsy pudding 
 
-*Ingr*: Sponge cake, coffee cake, custard powder, sugar, tin of pine 
+*Ingredients*: Sponge cake, coffee cake, custard powder, sugar, tin of pine 
 apple bits, whisky to sprinkle, dry fruits, milk cream. 
 
 **Method**: 
@@ -683,7 +701,7 @@ apple bits, whisky to sprinkle, dry fruits, milk cream.
 
 ## Gajar Halwa 
 
-*Ingr*: 250 gms carrots, 1\4 litre milk, 2 to 4 tbsp sugar, 1\2 cup 
+*Ingredients*: 250 gms carrots, 1\4 litre milk, 2 to 4 tbsp sugar, 1\2 cup 
 cream, ilachi powder for flavour, dry fruits. 
 
 **Method**: wash and grate the carrots. In kadhai put grated 
@@ -692,7 +710,7 @@ ilaichi and dry fruits.
 
 ## Gharya 
 
-*Ingr*: 1\4 kg red pumpkin, 50-70 gr jaggary, pinch of salt, elaichi 
+*Ingredients*: 1\4 kg red pumpkin, 50-70 gr jaggary, pinch of salt, elaichi 
 (cardamom powder, wheat flour kanik as required. 
 
 **Method**: 
