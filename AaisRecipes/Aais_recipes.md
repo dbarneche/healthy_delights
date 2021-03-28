@@ -63,20 +63,39 @@
 
 ## Kala Masala
 
-*Ingredients*: Corriander seeds 1 kg, red chillies 1/4 kg, whole termric 
-(halkund) 50 gm, cloves 20 gm, cinamone 20 gm, nutmeg 1, pepper 20 
-gm, ani seeds 20 gm, hing 10 gm, dagadful 10 gm, tamalpatrta 10 gm, 
-badi elichi 50 gm, gr elaichi 10 gm, badalful 20 gm, give final tou 
-cummins 50 gm, musturd 50 gm, fenugreek seeds 3 tsp, dry ginger 20 
-gm, jaipatri 20 gm, shahajeera 20 gm, sisme seeds (til) 100gm, poppy 
-seeds 100 gm 
+*Ingredients*: 
 
-**Method**: Roast all things one by one except poppy & til in very little oil. Roast poppy & til without oil. 
+* Coriander seeds 1 kg, 
+* Red chillies 1/4 kg, 
+* Whole turmric (halkund) 50 gm
+* Cloves 20 gm 
+* Cinamone 20 gm 
+* nutmeg 1,
+* Pepper 20 gm 
+* Aniseed 20 gm 
+* Hing 10 gm
+* Dagadphul 10 gm
+* Tamalpatrta 10 gm 
+* Badi elichi 50 gm 
+* Green elaichi 10 gm
+* Badalphul 20 gm
+* Cumin 50 g,
+* Mustard 50 gm
+* Fenugreek seeds 3 tsp
+* Dry ginger 20 gm
+* Jaipatri 20 gm
+* Shahajeera 20 gm 
+* Sesame seeds (til) 100gm
+* Poppy  seeds 100 gm 
 
-Grind all things except last two in grinder. Pass through seive to get fine
-powder. then grind poppy & til, mix with above powder. 
+**Method**: 
+1. Roast all things one by one except poppy & til in very little oil. 
+2. Roast poppy & til without oil
+3. Grind all things except last two in grinder
+4. Pass through seive to get fine powder
+5. Then grind poppy & til, mix with above powder 
 
-Note: use this masala for any veg, non-veg dish. 
+*Note*: Use this masala for any veg, non-veg dish. 
 
 ## Bombay Masala 
 
