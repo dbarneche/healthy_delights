@@ -702,33 +702,27 @@ poppy seeds.
 
 **Method**: 
 
-1. *Stuffing*- Roast poppy seeds. Grind coarsely. Mix coconut, 
-> poppy, sugar. Cook on slow fire. Add elaichi. 
+1. *Stuffing*- Roast poppy seeds. Grind coarsely. Mix coconut,  poppy, sugar. Cook on slow fire. Add elaichi. 
 
-2. Boil water, put ghee & salt in water. Add rice flour. Keep 
-> stirring. Cook it on slow fire. 
+2. Boil water, put ghee & salt in water. Add rice flour. Keep stirring. Cook it on slow fire. 
 
-3. Make smooth dough in mixer. Then with small portion make a ball, 
-> roll into puri. Put stuffing in centre & shape it like modak. 
-> Steam all the modak in cooker. 
+3. Make smooth dough in mixer. Then with small portion make a ball, roll into puri. Put stuffing in centre & shape it like modak. 
 
-4. Eat with ghee. 
+4. Steam all the modaks in cooker. 
+
+4. Eat with ghee
 
 ## Tipsy pudding 
 
-*Ingredients*: Sponge cake, coffee cake, custard powder, sugar, tin of pine 
-apple bits, whisky to sprinkle, dry fruits, milk cream. 
+*Ingredients*: Sponge cake, coffee cake, custard powder, sugar, tin of pineapple bits, whisky to sprinkle, dry fruits, milk cream. 
 
 **Method**: 
 
 1. Boil the milk, reduce the heat, add sugar, the paste of custard 
-> powder & cold milk in boiling milk. When thickens, turn off the 
-> fire. Cool it. 
+ powder & cold milk in boiling milk. When thickens, turn off the 
+ fire. Cool it. 
 
-2. Cut both the cakes in slices. Now in serving bowl, make the later 
-> of sponge cake slices, spread pineapple pieces on it, pour the 
-> liquid from the tin, spread custard on it. Sprinkle dry fruits 
-> & whisky. 
+2. Cut both the cakes in slices. Now in serving bowl, make the later of sponge cake slices, spread pineapple pieces on it, pour the  liquid from the tin, spread custard on it.Sprinkle dry fruits & whisky.
 
 3. Repeat the 2nd layer with coffee cake in place of sponge cake. 
 
@@ -742,26 +736,22 @@ apple bits, whisky to sprinkle, dry fruits, milk cream.
 cream, ilachi powder for flavour, dry fruits. 
 
 **Method**: wash and grate the carrots. In kadhai put grated 
-carrot, milk and sugar. Boil it. When dry put cream. Let it dry. Put 
-ilaichi and dry fruits. 
+carrot, milk and sugar. Boil it. When dry put cream. Let it dry. Put elaichi and dry fruits. 
 
 ## Gharya 
 
-*Ingredients*: 1\4 kg red pumpkin, 50-70 gr jaggary, pinch of salt, elaichi 
-(cardamom powder, wheat flour kanik as required. 
+*Ingredients*: 1\4 kg red pumpkin, 50-70 gr jaggary, pinch of salt, elaichi (cardamom powder), wheat flour (kanik) as required. 
 
 **Method**: 
 
-1. Steam Pumpkin, remove skin, mix with jaggery, salt and cardamom 
-powder; 
+1. Steam Pumpkin, remove skin, mix with jaggery, salt and cardamom powder 
 
 2. Heat on fire, remove from fire when it becomes consistency (like 
-> srikhanda), let cool 
+ srikhanda), let cool 
 
 3. Mix with flour and make soft dough 
 
-4. Wet a peice of cloth and thapatofy with hand to thickness of 
-> thalipeeth or so, make holes with fingers 
+4. Wet a peice of cloth and thapatofy with hand to thickness of thalipeeth or so, make holes with fingers 
 
 5. Fry on non-stick with little bit of oil. 
 
