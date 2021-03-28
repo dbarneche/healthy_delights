@@ -22,11 +22,12 @@
   - [Kerala Stew](#kerala-stew)
   - [Sambar](#sambar)
   - [Kadhi](#kadhi)
-  - [Puran-poli Amti](#puran-poli-amti)
+  - [Katachi Amti (typically eaten with Puran-poli)](#katachi-amti-typically-eaten-with-puran-poli)
   - [Pithala](#pithala)
   - [Sandgyachi Bhaji](#sandgyachi-bhaji)
 - [Meat/seafood dishes](#meatseafood-dishes)
   - [Pork pickle](#pork-pickle)
+  - [Minal Mami's Shrimp curry](#minal-mamis-shrimp-curry)
   - [Fish curry](#fish-curry)
   - [Sodyachi or bomblachi bhaji](#sodyachi-or-bomblachi-bhaji)
   - [Oysters](#oysters)
@@ -320,7 +321,7 @@ potato, tomato, onion, lal bhopala), salt, oil.
 2. Make phodni with curry leaves, hing, red chilies and Bengali tadka.
 3. Add yogurt mixture. do not let it boil! Stop just as it starts boiling.
 
-## Puran-poli Amti
+## Katachi Amti (typically eaten with Puran-poli)
 
 *Ingredients*: Chana dal (only water remaining after cooking and draining) Garlic (lasoon), grama masala, coriander leaves (kothimbir), salt 
 
@@ -365,6 +366,23 @@ sesame powder. mix . Lastly add garam masala, lemon juice &
 corriander. 
 
 *Note*: you can use goat meat instead of pork. 
+
+## Minal Mami's Shrimp curry 
+
+*Ingredients*: 
+* Raw shrimp (preferably with shells on)
+* Cumin seeds,
+* Tomato chopped (or canned tomatoes, chopped)
+* Fresh (preferably;  tinned will also do) coconut milk
+* Oil (can also be coconut oil)
+
+**Method**: 
+1. Marinade shrimp in turmeric, garlic, salt, and chili powder for an hr or so. 
+2. Heat oil
+3. Add cumin; when they turn a little darker add  tomatos till they become soft
+4. Add shrimp till they become opaque 
+   * Don't overcook - they should cook in a 5 mins or so at medium heat; if they have their shells on, the shell will change color to a reddish hue
+5. Finally, add coconut milk and turn off the gas (don't overboil at this stage, or the coconut aromatics will evaporate). 
 
 ## Fish curry 
 
