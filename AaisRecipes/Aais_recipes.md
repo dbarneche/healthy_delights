@@ -12,6 +12,7 @@
   - [Dhirda](#dhirda)
 - [Snacks](#snacks)
   - [Sabudana khichadi](#sabudana-khichadi)
+  - [Upit (Upama)](#upit-upama)
   - [Paat wadya](#paat-wadya)
   - [Aaluchya Wadya](#aaluchya-wadya)
   - [Sabudana Wada](#sabudana-wada)
@@ -22,9 +23,8 @@
   - [Kerala Stew](#kerala-stew)
   - [Sambar](#sambar)
   - [Kadhi](#kadhi)
+  - [Chavali (black eyed peas) chi usal](#chavali-black-eyed-peas-chi-usal)
   - [Katachi Amti (typically eaten with Puran-poli)](#katachi-amti-typically-eaten-with-puran-poli)
-  - [Pithala](#pithala)
-  - [Sandgyachi Bhaji](#sandgyachi-bhaji)
 - [Meat/seafood dishes](#meatseafood-dishes)
   - [Pork pickle](#pork-pickle)
   - [Minal Mami's Shrimp curry](#minal-mamis-shrimp-curry)
@@ -32,6 +32,9 @@
   - [Sodyachi or bomblachi bhaji](#sodyachi-or-bomblachi-bhaji)
   - [Oysters](#oysters)
 - [Vegetable dishes](#vegetable-dishes)
+  - [Green beans chi bhaji](#green-beans-chi-bhaji)
+  - [Pithala](#pithala)
+  - [Sandgyachi Bhaji](#sandgyachi-bhaji)
   - [Gurkha potato pickle](#gurkha-potato-pickle)
   - [Bharleli wangi](#bharleli-wangi)
   - [Aalu leaves Bhaji](#aalu-leaves-bhaji)
@@ -217,7 +220,7 @@ powder.
 
 ## Sabudana khichadi 
 
-*Ingr:* 2 cups sabudana, 1cup G nut powder ( roasted & powdered), 4 
+*Ingredients:* 2 cups sabudana, 1cup G nut powder ( roasted & powdered), 4 
 gr chillies ( cut), 1/2 tsp jeera, 2 tb sp ghee or oil, salt & sugar 
 for taste. 1 boiled potato (optional). 
 
@@ -228,6 +231,21 @@ brown, add chillies. Add sabudana, mix & cover. Cook for 7 to 10 mins
 stirring in bet. 
 
 Eat with curd. 
+
+## Upit (Upama) 
+
+*Ingredients:* Rava, Water (1:2 Rava:Water proportion), Yogurt, Green chilli, Salt, Sugar, green peas, chopped onion, chopped Tomato (optional), carrot. Phodani: Mohri, Hing, curry patta; Fresh coconut and coriander for garnishing
+
+Method: 
+* Fry the the Rava with a little oil (till its reddish) and keep aside
+* Make phodani in kadai: put some oil, mohri, hing, green chilli, curry patta, onion
+* Add green peas
+* Pour water, boil
+* Add rava, mix well
+* Add salt, sugar
+* Cover on low heat and let rava absorb water
+* Add yogurt (and tomato if using)
+* Turn off heat, garnish with coriander + coconut and leave covered (to steam) for 5 mins
 
 ## Paat wadya 
 
@@ -340,51 +358,43 @@ potato, tomato, onion, lal bhopala), salt, oil.
 2. Make phodni with curry leaves, hing, red chilies and Bengali tadka.
 3. Add yogurt mixture. do not let it boil! Stop just as it starts boiling.
 
+## Chavali (black eyed peas) chi usal 
+
+*Ingredients*: Soaked and washed Chavali (200g), two medium shallots (or one large red onion), Coriander leaves (handful), One medium tomato, Haldi, Red chilli powder, 1/3 tsp Garam masala (optional), Salt 
+
+**Method**: 
+* Roast the shallots till they are black on the outside and squishy soft inside
+* Grind together the roasted shallots, coriander leaves, and tomato
+* Heat little oil in cooker, put the ground paste, and fry till it is light brown
+* Add the chilli powder and garam masala (optional) and stir
+* Add the soaked chavali and stir well
+* Add the haldi and salt and stir
+* Close cooker and cook like you would black beans bit for 2/3 of the time
+
 ## Katachi Amti (typically eaten with Puran-poli)
 
 *Ingredients*: Chana dal (only water remaining after cooking and draining) Garlic (lasoon), grama masala, coriander leaves (kothimbir), salt 
 
 **Method**: Heat little oil in kadhai, put lasoon thechlela. When it becomes brown pour strained water from boiled dal, garam masala .salt, kothimbir. For  thickness grinfd some cooked dal and add
 
-## Pithala
-
-*Ingredients*: Besan, garlic pounded, haldi, salt, water, gr coriander, gr 
-chillies, oil. Red chilly pdr.\ 
-**Method**: Put oil in utensil, add rai, jeera, hing. When it 
-splutters lower the flame, add garlic, cut gr chillies, haldi, red 
-chilly powder. Pour the water. Put salt. When starts boiling, slowly 
-add besan. Keep on stirring till it makes the homogenous mixture. 
-Cover & cook. Add gr coriander. 
-
-## Sandgyachi Bhaji 
-
-*Ingredients*: muthbhar sandge, 1 large onion,1\2 tsp mutton masala, salt , 
-2 sp peanut pdr, oil, 1 tomato 
-
-**Method**: Fry sandge in little oil for 2 min. put oil in the pan 
-, add little musturd, when crackles, put cut onion ,make it brown, , 
-add cut tomato. Cook for sometime. Then add sandge, salt, peanut pdr, 
-mix. Put 1cup water to cook.Cover it & cook. It takes 15-20 min to 
-cook. 
-
 # Meat/seafood dishes
 
 ## Pork pickle 
 
-*Ingredients*: 1/2 kg pork, 1/4 dry coconut+ 2 tb sp sesame seeds( roasted & 
-ground) , 1 tsp garlic ginger paste, Green Masala (1 tbsp grated 
-ginger, 2 tbsp cut lengthwise garlic, 2 tbsp cut gr chillies 
-lengthwise ), 1/2 tsp poppy seeds, 1/2 tsp garam masala powder, 1/2 
-tsp haldi, salt to taste, 1 big lemon, 1/2 cup cut gr corriander, 
-oil. 
+*Ingredients*: 1/2 kg pork, 1/4 dry coconut+ 2 tb sp sesame seeds( roasted &
+ground) , 1 tsp garlic ginger paste, Green Masala (1 tbsp grated ginger, 2 tbsp
+cut lengthwise garlic, 2 tbsp cut gr chillies lengthwise ), 1/2 tsp poppy seeds,
+1/2 tsp garam masala powder, 1/2 tsp haldi, salt to taste, 1 big lemon, 1/2 cup
+cut gr corriander, oil. 
 
-**Method*:** Wash pork pieces, mix with haldi, salt, g+ g paste & 
-steam for 7 mins. Then fry in little oil. Keep aside. In remining oil 
-put poppy, then gr masala. when it is crisp, add pork & coconut 
-sesame powder. mix . Lastly add garam masala, lemon juice & 
-corriander. 
+**Method*:** 
+* Wash pork pieces, mix with haldi, salt, g+ g paste 
+* Cook in pressure cooker for 7 mins. 
+* Fry in little oil. Keep aside. 
+* In remaining oil put poppy, then gr masala. When it is crisp, add pork & coconut sesame powder. Mix . 
+* Lastly add garam masala, lemon juice & corriander. 
 
-*Note*: you can use goat meat instead of pork. 
+*Note*: you can use goat meat instead of pork.
 
 ## Minal Mami's Shrimp curry 
 
@@ -409,11 +419,13 @@ corriander.
 masala, finly cut onion, grated ginger & garlic, methi sesds, musturd 
 seeds, curry patta, oil, salt. , gr chillies. 
 
-**Method**: Grind coconut, red chilli, haldi in fine paste. Boil it 
-with 2 cups of water. Put amsol, garlic , ginger, cut gr chillies. 
-Boil for 5 min, add fish. Put few methi seeds, 1 tsp Bombay masala, 
-salt. After 5 min season (tadaka) with musturd , methi seeds. Fry 
-onion& curry patta & pour it in curry. 
+**Method**: 
+* Grind coconut, red chilli, haldi in fine paste and boil it with 2 cups of water
+* Put amsol, garlic, ginger, cut gr chillies 
+* Boil for 5 min, add fish 
+* Put few methi seeds, 1 tsp Bombay masala, salt, stir 
+* After 5 min season (tadaka) with musturd, methi seeds 
+* Fry  onion and curry patta and pour it into the curry 
 
 ## Sodyachi or bomblachi bhaji 
 
@@ -423,11 +435,15 @@ tsp, musterd 1/2 tsp, pepper 1/4 tsp & powdered ), oil, lemon sized imli, salt,
 gr corriader for garnishing. 
 .
 
-**Method**: Remove the heads & tails of bombil, cut into 2" pieces, roast on
-tawa , wash. (or wash sode). Heat oil in kadhai, fry onion, crushed garlic .
-When pink, add tomato pieces, When cooked put masalas, salt & bombil ( or sode)
-fry nicely. Add imli juice, water if required. Cook for 10 min. Garnish with gr
-corriander. 
+**Method**: 
+* Remove the heads & tails of bombil, cut into 2" pieces  
+* roast on tawa, wash. (or just wash sode without roasting)
+* Heat oil in kadhai, fry onion, crushed garlic
+* When pink, add tomato pieces
+* When cooked, put masalas, salt & bombil (or sode), fry nicely
+* Add imli juice, water if required
+* Cook for 10 min
+* Garnish with gr corriander
 
 ## Oysters 
 
@@ -441,6 +457,41 @@ oysters. Cook in their own juices. Lastly add garam masala.
 
 # Vegetable dishes
 
+## Green beans chi bhaji
+
+*Ingredients*: 300g green beans cut into 1 cm pieces, garlic, 2 green chillies,
+fresh coconut, one medium shallot (or 1/2 red/white onion) and one small tomato
+finely chopped, coriander, oil, 1 tsp red chilli pdr, 1 tsp haldi, salt to taste
+
+**Method**: 
+* Grind together fresh coconut, garlic, and green chillies to a paste
+* Put oil in utensil and heat it
+* Add the chopped shallots and tomato and stir till somewhat darker in color and oil separates
+* Add the paste and mix well - stir till it all starts to stic to the pan and/or starts to become brown 
+* Add haldi, red chilli powder, and salt and stir
+* Add the beans, stir well and cover tocook in their own steam on medium-low heat 
+* Turn off heat, add coriander chopped and mix well
+
+## Pithala
+
+*Ingredients*: Besan, garlic pounded, haldi, salt, water, gr coriander, gr 
+chillies, oil. Red chilly pdr.\ 
+**Method**: Put oil in utensil, add rai, jeera, hing. When it 
+splutters lower the flame, add garlic, cut gr chillies, haldi, red 
+chilly powder. Pour the water. Put salt. When starts boiling, slowly 
+add besan. Keep on stirring till it makes the homogenous mixture. 
+Cover & cook. Add gr coriander. 
+
+## Sandgyachi Bhaji 
+
+*Ingredients*: muthbhar sandge, 1 large onion,1\2 tsp mutton masala, salt , 
+2 sp peanut pdr, oil, 1 tomato 
+
+**Method**: Fry sandge in little oil for 2 min. put oil in the pan 
+, add little musturd, when crackles, put cut onion ,make it brown, , 
+add cut tomato. Cook for sometime. Then add sandge, salt, peanut pdr, 
+mix. Put 1cup water to cook.Cover it & cook. It takes 15-20 min to 
+cook. 
 ## Gurkha potato pickle 
 
 *Ingr:* 1/2 kg boiled & cut potatoes, 4 tbsp sesame seeds (roastd & 
